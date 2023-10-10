@@ -1,2 +1,2 @@
 # Entornos-desarrollo
-Repositorio para ñla clase entornos de desarrollo
+Repositorio para la clase entornos de desarrollo
